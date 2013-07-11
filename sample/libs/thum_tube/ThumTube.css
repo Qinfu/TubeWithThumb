@@ -1,0 +1,23 @@
+.playerFld{
+	display:inline-block;
+	overflow:hidden;
+	position:relative;
+	background-color:#ffffff;
+}
+
+.tubeAV{
+	position:absolute;
+	top:0;
+	left:0;
+}
+
+.tyPlayer{
+	position:absolute;
+	top:0;
+	left:0;
+}
+
+.tyEnter{
+	opacity:0.75;
+	filter: alpha(opacity=75);
+}
