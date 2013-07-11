@@ -1,4 +1,4 @@
-#YouTube Player witn Thumbnail
+#Embed YouTube witn Thumbnail
 
 A script for embeding YouTube movie with custom image. need jQuely.
 
@@ -16,6 +16,6 @@ A script for embeding YouTube movie with custom image. need jQuely.
 
 ex)
 
-<div <b>class="playerFld"></b>
-	<img src="images/thumbnail.jpg" width="280" height="158" <b>name="movieID"</b> alt="" />
-</div>
+    <div class="playerFld">　
+        <img src="images/thumbnail.jpg" width="280" height="158" name="movieID" alt="" />　	
+    </div>
